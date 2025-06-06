@@ -34,3 +34,11 @@ body {
     .button:hover {
       background-color: #f3e6f2;
     }
+
+    #loc{
+      margin-left: 50px;
+    }
+
+    #ord{
+      padding-left: 40px;
+    }

@@ -44,3 +44,15 @@ body {
       color: #660055;
       border-radius: 10px;
     }
+
+    #first{
+      font-family: 'Times New Roman', Times, serif;
+    }
+
+    #second{
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    #third{
+      font-family: cursive;
+    }

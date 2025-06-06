@@ -44,6 +44,12 @@ body {
       margin-top: 60px;
     }
 
+    p{
+      color: #660055;
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+
     .submit-btn:active {
       transform: scale(0.96);
       background-color: #550044;
